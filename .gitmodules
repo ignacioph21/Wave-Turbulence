@@ -1,3 +1,6 @@
 [submodule "Code-Wave-Turbulence"]
 	path = Code-Wave-Turbulence
 	url = https://github.com/ignacioph21/Code-Wave-Turbulence.git
+[submodule "Lab-Notebook-Wave-Turbulence"]
+	path = Lab-Notebook-Wave-Turbulence
+	url = https://github.com/ignacioph21/Lab-Notebook-Wave-Turbulence
